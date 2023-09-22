@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'Test Kasm Registry',
     description: 'The test environment for Kasm supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
+    listUrl: 'https://supcom234.github.io/kasm-registry/',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
